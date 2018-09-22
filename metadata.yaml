@@ -1,11 +1,16 @@
 _repo: Den-akta-gentlemannen-eller-grundsatser-och-reglor-for-god-ton-och-sannt-lefnadsvett-i-umgang__55542
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55542-h/images/cover.jpg
 creator:
   author:
     agent_name: Wenzel, J. G.
     gutenberg_agent_id: '48393'
     url: http://www.gutenberg.org/2009/agents/48393
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55542#Den-akta-gentlemannen-eller-grundsatser-och-reglor-for-god-ton-och-sannt-lefnadsvett-i-umgang_
 gutenberg_issued: '2017-09-13'
 gutenberg_type: Text
 identifiers:
